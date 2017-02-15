@@ -1,8 +1,14 @@
 # Git and GitHub Basics
 >*To begin you will want to fork a copy of this repository and pull it down to your local machine.*
 
-### Survey link
-http://www.strawpoll.me/12343830
+### Cats Rule
+````
+
+         /\_/\
+    ____/ o o \
+  /~____  =ø= /
+ (______)__m_m) 
+````
 
 #### Installing Git
 > Assuming you have brew installed. Use the following terminal command to install `$ brew install git`.
