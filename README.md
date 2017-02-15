@@ -1,6 +1,9 @@
 # Git and GitHub Basics
 >*To begin you will want to fork a copy of this repository and pull it down to your local machine.*
 
+### Survey link
+http://www.strawpoll.me/12343830
+
 #### Installing Git
 > Assuming you have brew installed. Use the following terminal command to install `$ brew install git`.
 
@@ -23,4 +26,11 @@
 
 ![Startup Institute](https://github.com/StartupInstitute/git-and_github-basics/blob/master/si-logo.png)
 
-### Microblog: Why Version Control is Important to Me
+### Additional Resources
+
+* githug (https://github.com/Gazler/githug)
+* atlassian (https://www.atlassian.com/git/tutorials/comparing-workflows)
+* git flow (http://nvie.com/posts/a-successful-git-branching-model/)
+* github flow (https://guides.github.com/introduction/flow/)
+* git koans (http://stevelosh.com/blog/2013/04/git-koans/)
+* tig (https://github.com/jonas/tig)
